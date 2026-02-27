@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "categoryId": 1,
+        "category": "Jacket",
+        "name": "Mens Winter Leathers Jackets",
+        "price": 32.00,
+        "originalPrice": 45.00,
+        "rating": 4,
+        "badge": null,
+        "images": [
+            "/assets/images/products/jacket-3.jpg",
+            "/assets/images/products/jacket-4.jpg"
+        ],
+        "inStock": true,
+        "description": "Premium winter leather jacket crafted for warmth and style. Features full insulation and genuine leather finish."
+    },
+    {
+        "id": 2,
+        "categoryId": 2,
+        "category": "Shirt",
+        "name": "Pure Garment Dyed Cotton Shirt",
+        "price": 45.00,
+        "originalPrice": 56.00,
+        "rating": 3,
+        "badge": "sale",
+        "images": [
+            "/assets/images/products/shirt-1.jpg",
+            "/assets/images/products/shirt-2.jpg"
+        ],
+        "inStock": true,
+        "description": "100% Cotton garment-dyed shirt for a vintage aesthetic. Comfortable and breathable for everyday wear."
+    },
+    {
+        "id": 3,
+        "categoryId": 1,
+        "category": "Jacket",
+        "name": "Mens Winter Leathers Jackets (Grey)",
+        "price": 48.00,
+        "originalPrice": 75.00,
+        "rating": 5,
+        "badge": "15%",
+        "images": [
+            "/assets/images/products/jacket-5.jpg",
+            "/assets/images/products/jacket-6.jpg"
+        ],
+        "inStock": true,
+        "description": "Sleek grey winter leather jacket for men. Tailored fit with wind-resistant features."
+    },
+    {
+        "id": 4,
+        "categoryId": 3,
+        "category": "Skirts",
+        "name": "Black Floral Wrap Midi Skirt",
+        "price": 25.00,
+        "originalPrice": 35.00,
+        "rating": 5,
+        "badge": "new",
+        "images": [
+            "/assets/images/products/clothes-3.jpg",
+            "/assets/images/products/clothes-4.jpg"
+        ],
+        "inStock": true,
+        "description": "Elegant floral midi skirt featuring a versatile wrap design. Perfect for casual or semi-formal occasions."
+    },
+    {
+        "id": 5,
+        "categoryId": 4,
+        "category": "Casual",
+        "name": "Casual Men's Brown shoes",
+        "price": 99.00,
+        "originalPrice": 105.00,
+        "rating": 5,
+        "badge": null,
+        "images": [
+            "/assets/images/products/shoe-2.jpg",
+            "/assets/images/products/shoe-2_1.jpg"
+        ],
+        "inStock": true,
+        "description": "Handcrafted brown leather casual shoes designed for peak comfort and modern styling."
+    },
+    {
+        "id": 6,
+        "categoryId": 5,
+        "category": "Watches",
+        "name": "Pocket Watch Leather Pouch",
+        "price": 150.00,
+        "originalPrice": 170.00,
+        "rating": 4,
+        "badge": "sale",
+        "images": [
+            "/assets/images/products/watch-3.jpg",
+            "/assets/images/products/watch-4.jpg"
+        ],
+        "inStock": true,
+        "description": "Classic pocket watch paired with a protective genuine leather pouch. A timeless luxury accessory."
+    },
+    {
+        "id": 7,
+        "categoryId": 5,
+        "category": "Watches",
+        "name": "Smartwatche Vital Plus",
+        "price": 56.00,
+        "originalPrice": 78.00,
+        "rating": 4,
+        "badge": null,
+        "images": [
+            "/assets/images/products/watch-1.jpg",
+            "/assets/images/products/watch-2.jpg"
+        ],
+        "inStock": true,
+        "description": "Next-generation smartwatch with fitness tracking, heart rate monitoring, and a sleek dark design."
+    },
+    {
+        "id": 8,
+        "categoryId": 6,
+        "category": "Party wear",
+        "name": "Womens Party Wear Shoes",
+        "price": 25.00,
+        "originalPrice": 30.00,
+        "rating": 3,
+        "badge": "sale",
+        "images": [
+            "/assets/images/products/party-wear-1.jpg",
+            "/assets/images/products/party-wear-2.jpg"
+        ],
+        "inStock": true,
+        "description": "Glamorous party wear shoes designed to turn heads. Comfortable enough to dance the night away."
+    },
+    {
+        "id": 9,
+        "categoryId": 1,
+        "category": "Jacket",
+        "name": "Mens Winter Leathers Jackets",
+        "price": 32.00,
+        "originalPrice": 45.00,
+        "rating": 4,
+        "badge": null,
+        "images": [
+            "/assets/images/products/jacket-1.jpg",
+            "/assets/images/products/jacket-2.jpg"
+        ],
+        "inStock": true,
+        "description": "Standard edition winter leather jacket featuring a rugged brown finish."
+    },
+    {
+        "id": 10,
+        "categoryId": 7,
+        "category": "Sports",
+        "name": "Trekking & Running Shoes - black",
+        "price": 58.00,
+        "originalPrice": 64.00,
+        "rating": 3,
+        "badge": "sale",
+        "images": [
+            "/assets/images/products/sports-2.jpg",
+            "/assets/images/products/sports-4.jpg"
+        ],
+        "inStock": true,
+        "description": "High-performance black running and trekking shoes built for durability across rugged terrain."
+    },
+    {
+        "id": 11,
+        "categoryId": 8,
+        "category": "Formal",
+        "name": "Men's Leather Formal Wear shoes",
+        "price": 50.00,
+        "originalPrice": 65.00,
+        "rating": 4,
+        "badge": null,
+        "images": [
+            "/assets/images/products/shoe-1.jpg",
+            "/assets/images/products/shoe-1_1.jpg"
+        ],
+        "inStock": true,
+        "description": "Premium black leather formal footwear designed for business and formal events."
+    },
+    {
+        "id": 12,
+        "categoryId": 9,
+        "category": "Shorts",
+        "name": "Better Basics French Terry Sweatshorts",
+        "price": 78.00,
+        "originalPrice": 85.00,
+        "rating": 3,
+        "badge": "sale",
+        "images": [
+            "/assets/images/products/shorts-1.jpg",
+            "/assets/images/products/shorts-2.jpg"
+        ],
+        "inStock": true,
+        "description": "Incredibly soft french terry sweatshorts, essential for your casual activewear rotation."
+    }
+]

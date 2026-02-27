@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "slug": "clothes-retail-kpis-2026",
+        "title": "Clothes Retail KPIs 2026 Guide for Clothes Executives",
+        "author": "Mr Admin",
+        "created_at": "Apr 06, 2026",
+        "image": "/assets/images/blog-1.jpg",
+        "category": "Fashion",
+        "content": "In 2026, the global apparel market demands deep metrics tracking. From average order value (AOV) to customer lifetime value (CLV), retail executives must pivot heavily into direct-to-consumer data models to outpace competition and improve sustainability metrics across supply chains."
+    },
+    {
+        "id": 2,
+        "slug": "curbside-fashion-trends-pickup-battle",
+        "title": "Curbside Fashion Trends: How to Win the Pickup Battle",
+        "author": "Mr Robin",
+        "created_at": "Jan 18, 2026",
+        "image": "/assets/images/blog-2.jpg",
+        "category": "Clothes",
+        "content": "Curbside pickup is no longer a pandemic-era luxury—it's an operational baseline. Integrating fluid BOPIS (Buy Online, Pick Up In-Store) workflows allows physical stores to operate as micro-fulfillment centers, boosting inventory turnover by up to 30%."
+    },
+    {
+        "id": 3,
+        "slug": "ebt-vendors-claim-snap-revenue",
+        "title": "EBT vendors: Claim Your Share of SNAP Online Revenue",
+        "author": "Mr Selsa",
+        "created_at": "Feb 10, 2026",
+        "image": "/assets/images/blog-3.jpg",
+        "category": "Shoes",
+        "content": "As federal programs modernize, digitizing EBT processing has opened up vast new revenue streams for eligible online vendors. Implementing compliant gateway APIs unlocks growth while serving expanded demographics flawlessly."
+    },
+    {
+        "id": 4,
+        "slug": "electronics-curbside-pickup",
+        "title": "Electronics & Gadgets: Faster Fulfillment Horizons",
+        "author": "Mr Pawar",
+        "created_at": "Mar 15, 2026",
+        "image": "/assets/images/blog-4.jpg",
+        "category": "Electronics",
+        "content": "The consumer tech industry operates at lightning speed. To win the Q4 battleground, retailers are deploying predictive AI algorithms to preemptively stock electronics at edge hubs days before anticipated consumer demand spikes."
+    }
+]

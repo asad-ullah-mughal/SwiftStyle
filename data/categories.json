@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Jacket",
+        "slug": "jacket",
+        "image": "/assets/images/icons/jacket.svg",
+        "count": 16
+    },
+    {
+        "id": 2,
+        "name": "Shirt",
+        "slug": "shirt",
+        "image": "/assets/images/icons/shirt.svg",
+        "count": 300
+    },
+    {
+        "id": 3,
+        "name": "Skirts",
+        "slug": "skirts",
+        "image": "/assets/images/icons/shorts.svg",
+        "count": 40
+    },
+    {
+        "id": 4,
+        "name": "Casual",
+        "slug": "casual",
+        "image": "/assets/images/icons/shoes.svg",
+        "count": 87
+    },
+    {
+        "id": 5,
+        "name": "Watches",
+        "slug": "watches",
+        "image": "/assets/images/icons/watch.svg",
+        "count": 27
+    },
+    {
+        "id": 6,
+        "name": "Party wear",
+        "slug": "party-wear",
+        "image": "/assets/images/icons/bag.svg",
+        "count": 45
+    },
+    {
+        "id": 7,
+        "name": "Sports",
+        "slug": "sports",
+        "image": "/assets/images/icons/shoes.svg",
+        "count": 14
+    },
+    {
+        "id": 8,
+        "name": "Formal",
+        "slug": "formal",
+        "image": "/assets/images/icons/shoes.svg",
+        "count": 30
+    },
+    {
+        "id": 9,
+        "name": "Shorts",
+        "slug": "shorts",
+        "image": "/assets/images/icons/shorts.svg",
+        "count": 12
+    }
+]
